@@ -71,6 +71,7 @@ class Abs
 			System.out.println();
 		}
 		System.out.println("resultant:"+(x+y-1));
+		System.out.println("resultant:"+(x+y-1));
 	}
 		
 }
